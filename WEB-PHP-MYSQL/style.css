@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    height: 100vh;
+    width: 100vw;
+    background: url(https://img.freepik.com/foto-gratis/borroso-abstracto-supermercado_74190-5265.jpg?w=1380&t=st=1700658594~exp=1700659194~hmac=d1c5a8fb8155f7d347920deb78eb38dac12024db254aed8713db5a452322cd3c);
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+
+   .btn{
+    border-radius: 10px;
+    padding: 5px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    color: rgb(58, 8, 8);
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    opacity: 0.9;
+   } 
+
+   .box-g{
+    background-color: #ea1b1b;
+    opacity: 0.85;
+    color: aliceblue;
+    font-size: 30px;
+    padding: 20px;
+    border-radius: 10px;
+    
+   }
+   .input{
+    border-radius: 15px;
+    padding: 5px;
+    width: 100%;
+    color: aliceblue;
+    background-color: rgb(255, 251, 251);
+    opacity: 0.4;
+   }
